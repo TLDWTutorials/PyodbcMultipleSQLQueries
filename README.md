@@ -17,7 +17,7 @@ pip install pyodbc pandas
 ```
 
 ## How to Use
-1. Modify the connection details in script.py:
+1. Modify the connection details in RunListofSQLQueries.py:
 
 - Update server with your SQL Server hostname.
 - Update database with your database name.
